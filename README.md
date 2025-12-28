@@ -29,3 +29,6 @@ This repository explains how core DevOps tools and concepts connect with each ot
 
 ## Learning Goal
 Build a strong DevOps foundation by understanding connections, not just tools.
+
+## Status
+Actively learning and improving this map as I progress.
